@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ichepyxa
+- 👋 Hi, I’m Maxim
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning frontend and backend
 <!-- - 💞️ I’m looking to collaborate on  -->
