@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ichepyxa&label=Profile%20views&color=99ff00&style=plastic" alt="ichepyxa" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, NestJS**
+- 🌱 I’m currently learning **ReactJS, NestJS, Laravel**
 
 - 💬 Ask me about **Frontend, Backend**
 
